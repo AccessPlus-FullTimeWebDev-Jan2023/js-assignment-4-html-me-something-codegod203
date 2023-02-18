@@ -1,6 +1,7 @@
+
 /* Write your CSS here! */
 
-h1  {
+ h1{
     color:darkred;
     text-align: center;
 }
@@ -8,4 +9,25 @@ h1  {
 
 body {
     text-align: center;
+    margin: 8px;
 }
+
+img {
+   max-width: 100%; 
+   max-height: 100%;
+}
+
+
+.image1{
+    max-width: 40%;
+    max-height: 40%;
+}
+article{
+    text-align: center;
+
+    border-style: solid;
+)
+#mainHeading {
+    color: red;
+
+
