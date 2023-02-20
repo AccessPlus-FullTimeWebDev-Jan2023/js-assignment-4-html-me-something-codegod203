@@ -10,6 +10,7 @@
 body {
     text-align: center;
     margin: 8px;
+    display: block;
 }
 
 img {
@@ -26,8 +27,12 @@ article{
     text-align: center;
 
     border-style: solid;
-)
-#mainHeading {
-    color: red;
+    padding-top: 10px;
+}
 
+
+#funParagraph{
+    color: green;
+
+}
 
