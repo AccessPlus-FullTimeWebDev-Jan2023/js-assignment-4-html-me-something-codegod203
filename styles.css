@@ -1,11 +1,10 @@
 
 /* Write your CSS here! */
 
- h1{
+h1{
     color:darkred;
     text-align: center;
 }
-
 
 body {
     text-align: center;
@@ -35,6 +34,6 @@ article{
     color: green;
 
 }
-.header{
-    color: red;
+#mainheading{
+   color: red;
 }
