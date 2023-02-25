@@ -37,3 +37,6 @@ article{
 #mainheading{
    color: red;
 }
+section{
+    display: block;
+}
